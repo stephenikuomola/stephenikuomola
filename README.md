@@ -1,9 +1,9 @@
 # Hi there 👋🏽
 
-My name is Stephen Ikuomola.
+My name is Damilola Stephen Ikuomola.
 
 
-As a skilled Software Developer, I am deeply passionate about crafting exceptional user experiences and delivering modern solutions with a customer-first mindset. My expertise in HTML, CSS, and Javascript allows me to seamlessly translate design concepts into intuitive and efficient Front-End development. With my expertise, I am confident in my ability to engage and delight users with the digital experiences I create.
+As a skilled Software Developer, I am deeply passionate about crafting exceptional user experiences and delivering modern solutions with a customer-first mindset. My expertise in HTML, CSS, and JavaScript allows me to translate design concepts into intuitive, efficient Front-End development seamlessly. With my expertise, I am confident in my ability to engage and delight users with the digital experiences I create.
 
 
 ### Tools Used
